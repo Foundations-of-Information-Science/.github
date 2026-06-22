@@ -10,7 +10,7 @@ contact persons.
 This site hosts information about the FIS initiative, a long-running scholarly community exploring information
 as a fundamental scientific concept across the Physical, Biological, Social, and Informational domains of science.
 
-- [GitHub repository](https://github.com/Foundations-of-Information-Science/fis-website)
+- FIS website [GitHub repository](https://github.com/Foundations-of-Information-Science/fis-website)
 - The website deploys to [https://fis-website.netlify.app/](https://fis-website.netlify.app/) using Netlify
 
 
@@ -20,5 +20,5 @@ as a fundamental scientific concept across the Physical, Biological, Social, and
 
 Contains the source files for the FIS mailing list archives for 1997-2007. 
 
-- [GitHub repository](https://github.com/Foundations-of-Information-Science/fis-archive)
+- FIS mailing list archive [GitHub repository](https://github.com/Foundations-of-Information-Science/fis-archive)
 - The website deploys to [https://fis-archive.netlify.app/](https://fis-archive.netlify.app/) using Netlify
